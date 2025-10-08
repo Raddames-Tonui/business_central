@@ -4,7 +4,7 @@ report 50100 "Vehicle Brands"
     Caption = 'Vehicle Brands';
     UsageCategory = ReportsAndAnalysis;
 
-    RDLCLayout = 'Rep50100.VehicleBrands.rdl';
+    RDLCLayout = 'Rep50100.VehicleBrands.rdl'; 
 
     
     dataset
